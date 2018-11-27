@@ -1,0 +1,6 @@
+C:\Users\Jason Hiskey\source\repos\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Jason Hiskey\source\repos\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Jason Hiskey\source\repos\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Jason Hiskey\source\repos\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Jason Hiskey\source\repos\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Jason Hiskey\source\repos\Decisions\Decisions\obj\Debug\Decisions.pdb
