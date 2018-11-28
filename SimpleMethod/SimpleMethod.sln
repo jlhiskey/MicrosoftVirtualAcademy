@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingArrays", "UnderstandingArrays\UnderstandingArrays.csproj", "{D2B1BA1F-5058-4043-958B-0F5B21A4F199}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethod", "SimpleMethod\SimpleMethod.csproj", "{317F946D-03BA-4FFA-B6F6-F74A69238143}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D2B1BA1F-5058-4043-958B-0F5B21A4F199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2B1BA1F-5058-4043-958B-0F5B21A4F199}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2B1BA1F-5058-4043-958B-0F5B21A4F199}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2B1BA1F-5058-4043-958B-0F5B21A4F199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317F946D-03BA-4FFA-B6F6-F74A69238143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317F946D-03BA-4FFA-B6F6-F74A69238143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317F946D-03BA-4FFA-B6F6-F74A69238143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317F946D-03BA-4FFA-B6F6-F74A69238143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3B7C250F-F296-46FF-8F20-1E2763E859BE}
+		SolutionGuid = {2584393D-A9CB-466B-B572-C7978A357217}
 	EndGlobalSection
 EndGlobal
